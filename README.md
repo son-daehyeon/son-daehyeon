@@ -21,7 +21,7 @@
 <div>
    <h1>💡 Project 💡</h1>
    <div>
-      <h3><a href="https://github.com/Hakuna-Matata-ioloolo">Hakuna Matata</a></h3>
+      <h3><a href="https://github.com/ioloolo/Hakuna-Matata-Backend">Hakuna Matata</a></h3>
    </div>
    <div>
       <h3><a href="https://github.com/ioloolo/Ignite">Ignite</a></h3>
@@ -30,13 +30,13 @@
       <h3><a href="https://github.com/ioloolo/ComciganApi">Comcigan API</a></h3>
    </div>
    <div>
-      <h3><a href="https://github.com/School-Helper-ioloolo">School Helper</a></h3>
+      <h3><a href="https://github.com/ioloolo/School-Helper-Backend">School Helper</a></h3>
    </div>
    <div>
       <h3><a href="https://github.com/ioloolo/ComciganApi">Teacher Plan</a></h3>
    </div>
    <div>
-      <h3><a href="https://github.com/ioloolo/OnlineJudge-ioloolo">Online Judge</a></h3>
+      <h3><a href="https://github.com/ioloolo/OnlineJudge-Backend">Online Judge</a></h3>
    </div>
    <div>
       <h2>Template</h2>
@@ -69,7 +69,6 @@
    </div>
    <div>
       <image height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioloolo&layout=compact&disable_animations=true" />
-      <image height=150 src="https://github-readme-stats.vercel.app/api/wakatime?username=ioloolo&layout=compact&langs_count=10" />
    </div>
    <div>
       <h2>Framework & Library</h2>
