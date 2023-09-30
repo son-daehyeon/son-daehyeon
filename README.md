@@ -68,9 +68,6 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
    </div>
    <div>
-      <image height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioloolo&layout=compact&disable_animations=true" />
-   </div>
-   <div>
       <h2>Framework & Library</h2>
       <div>
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
