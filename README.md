@@ -19,17 +19,6 @@
    </div>
 </div>
 <div>
-   <div>
-      <h2>Template</h2>
-      <div>
-         <h3><a href="https://github.com/ioloolo/spring-boot-security-mongodb-jwt-template">Spring Security + JWT + MongoDB</a></h3>
-      </div>
-      <div>
-         <h3><a href="https://github.com/ioloolo/typescript-eslint-prettier-template">Typescript + ESLint + Prettier</a></h3>
-      </div>
-   </div>
-</div>
-<div>
 <h1>🖥️ Tech Stack 🖥️</h1>
 <div>
    <h2>Language</h2>
@@ -63,10 +52,6 @@
    </div>
 </div>
 <div>
-<h1>📚 Baekjoon Online Judge 📚</h1>
-<image height=150 src="https://mazandi.herokuapp.com/api?handle=sondaehyeon01" />
+   <h1>📚 Baekjoon Online Judge 📚</h1>
+   <image height=150 src="https://mazandi.herokuapp.com/api?handle=sondaehyeon01" />
 <div/>
-<div>
-   <h1>Github Stats</h1>
-   <image height=150 src="https://github-readme-stats.vercel.app/api?username=ioloolo&show_icons=true&rank_icon=github&include_all_commits=true&&disable_animations=true" />
-</div>
