@@ -1,9 +1,9 @@
-<image src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=250&animation=fadeIn&text=Ioloolo&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=Son%20Daehyeon&descSize=26&descAlignY=50" />
+<image src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=250&animation=fadeIn&text=Son%20Daehyeon&fontSize=56&fontAlignY=35&fontColor=ffffff" />
 <div>
    <h1>📞 Contact Me 📞</h1>
    <div>
-      <a href="https://github.com/ioloolo">
-      <img src="https://img.shields.io/badge/ioloolo-100000?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/son_daehyeon">
+      <img src="https://img.shields.io/badge/son__daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
    </div>
    <div>
@@ -15,29 +15,10 @@
       <img src="https://img.shields.io/badge/son__daehyoen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
    </div>
    <div>
-      <img src="https://img.shields.io/badge/sondaehyeon@kakao.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/sondaehyeon01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </div>
 </div>
 <div>
-   <h1>💡 Project 💡</h1>
-   <div>
-      <h3><a href="https://github.com/ioloolo/Hakuna-Matata-Backend">Hakuna Matata</a></h3>
-   </div>
-   <div>
-      <h3><a href="https://github.com/ioloolo/Ignite">Ignite</a></h3>
-   </div>
-   <div>
-      <h3><a href="https://github.com/ioloolo/ComciganApi">Comcigan API</a></h3>
-   </div>
-   <div>
-      <h3><a href="https://github.com/ioloolo/School-Helper-Backend">School Helper</a></h3>
-   </div>
-   <div>
-      <h3><a href="https://github.com/ioloolo/ComciganApi">Teacher Plan</a></h3>
-   </div>
-   <div>
-      <h3><a href="https://github.com/ioloolo/OnlineJudge-Backend">Online Judge</a></h3>
-   </div>
    <div>
       <h2>Template</h2>
       <div>
@@ -78,12 +59,7 @@
       </div>
       <div>
          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
          <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-      </div>
-      <div>
-         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-         <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
       </div>
       <div>
          <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
@@ -94,8 +70,6 @@
    <div>
       <h2>Database</h2>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
    </div>
 </div>
 <div>
