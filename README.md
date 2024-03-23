@@ -1,6 +1,6 @@
 <image src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=250&animation=fadeIn&text=Son%20Daehyeon&fontSize=56&fontAlignY=35&fontColor=ffffff" />
 <div>
-   <h1>📞 Contact Me 📞</h1>
+   <h1>🖥️ Tech Me 🖥️</h1>
    <div>
       <a href="https://github.com/son_daehyeon">
       <img src="https://img.shields.io/badge/son__daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -11,6 +11,7 @@
       <img src="https://img.shields.io/badge/ioloolo-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
       </a>
    </div>
+   <h1>📞 Contact Me 📞</h1>
    <div>
       <img src="https://img.shields.io/badge/sondaehyeon01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </div>
