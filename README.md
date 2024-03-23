@@ -7,20 +7,20 @@
       </a>
    </div>
    <div>
-      <a href="https://www.instagram.com/son._.daehyeon/">
-      <img src="https://img.shields.io/badge/son.__.daehyeon-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-      </a>
-   </div>
-    <div>
       <a href="[https://velog.io/son._.daehyeon/](https://velog.io/@ioloolo)">
       <img src="https://img.shields.io/badge/ioloolo-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
       </a>
    </div>
    <div>
-      <img src="https://img.shields.io/badge/son__daehyoen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/sondaehyeon01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </div>
    <div>
-      <img src="https://img.shields.io/badge/sondaehyeon01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <a href="https://www.instagram.com/son._.daehyeon/">
+      <img src="https://img.shields.io/badge/son.__.daehyeon-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+   </div>
+   <div>
+      <img src="https://img.shields.io/badge/son__daehyoen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
    </div>
 </div>
 <div>
@@ -59,4 +59,5 @@
 <div>
    <h1>📚 Baekjoon Online Judge 📚</h1>
    <image height=150 src="https://mazandi.herokuapp.com/api?handle=sondaehyeon01" />
+   <image height=150 src="https://mazandi.herokuapp.com/api?handle=kmu_daehyeon" />
 <div/>
