@@ -11,6 +11,11 @@
       <img src="https://img.shields.io/badge/son.__.daehyeon-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
       </a>
    </div>
+    <div>
+      <a href="[https://velog.io/son._.daehyeon/](https://velog.io/@ioloolo)">
+      <img src="https://img.shields.io/badge/ioloolo-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
+      </a>
+   </div>
    <div>
       <img src="https://img.shields.io/badge/son__daehyoen-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
    </div>
