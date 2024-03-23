@@ -1,4 +1,4 @@
-<image src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=250&animation=fadeIn&text=Son%20Daehyeon&fontSize=56&fontAlignY=35&fontColor=ffffff" />
+<image src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc8&height=250&animation=fadeIn&text=Son%20Daehyeon&fontSize=56&fontAlignY=35&fontColor=ffffff" />
 <div>
    <h1>🖥️ Tech Me 🖥️</h1>
    <div>
