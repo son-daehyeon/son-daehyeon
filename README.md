@@ -2,8 +2,8 @@
 <div>
    <h1>🖥️ Tech Me 🖥️</h1>
    <div>
-      <a href="https://github.com/son_daehyeon">
-      <img src="https://img.shields.io/badge/son__daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/son-daehyeon">
+      <img src="https://img.shields.io/badge/son-daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
    </div>
    <div>
