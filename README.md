@@ -7,7 +7,7 @@
       </a>
    </div>
    <div>
-      <a href="[https://velog.io/son._.daehyeon/](https://velog.io/@ioloolo)">
+      <a href="https://velog.io/@ioloolo">
       <img src="https://img.shields.io/badge/ioloolo-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
       </a>
    </div>
