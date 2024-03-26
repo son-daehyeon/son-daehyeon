@@ -6,11 +6,6 @@
       <img src="https://img.shields.io/badge/son--daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
    </div>
-   <div>
-      <a href="https://velog.io/@ioloolo">
-      <img src="https://img.shields.io/badge/ioloolo-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
-      </a>
-   </div>
    <h1>📞 Contact Me 📞</h1>
    <div>
       <img src="https://img.shields.io/badge/sondaehyeon01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
