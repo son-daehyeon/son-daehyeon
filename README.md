@@ -3,7 +3,10 @@
    <h1>🖥️ Tech Me 🖥️</h1>
    <div>
       <a href="https://github.com/son-daehyeon">
-      <img src="https://img.shields.io/badge/son--daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
+         <img src="https://img.shields.io/badge/son--daehyeon-000000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://sondaehyeon.tistory.com">
+         <img src="https://img.shields.io/badge/sondaehyeon-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
       </a>
    </div>
    <h1>📞 Contact Me 📞</h1>
