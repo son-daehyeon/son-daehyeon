@@ -48,7 +48,6 @@
       <div>
          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-         <img src="https://img.shields.io/badge/Vue-FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
          <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
       </div>
       <div>
