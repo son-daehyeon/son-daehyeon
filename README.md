@@ -23,10 +23,9 @@
 
 ## Framework & Library
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Djange-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-F2F4F9?style=for-the-badge&logo=springsecurity)
