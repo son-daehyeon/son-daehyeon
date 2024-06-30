@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "ko"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Fetch latest WakaTime"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
