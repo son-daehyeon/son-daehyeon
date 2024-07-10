@@ -9,8 +9,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/son.__.daehyeon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/son._.daehyeon/)
 
-![Discord Badge](https://img.shields.io/badge/son__daehyoen-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
 # 🖥️ Tech Stack 🖥️
 
 ## Language
@@ -24,7 +22,6 @@
 ## Framework & Library
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Djange-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -32,9 +29,6 @@
  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,7 +37,6 @@
 
 ## Cloud
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon%20ec2&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws%20lambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon%20s3&logoColor=white)
 
 # ⏰ Project Time Track ⏰
