@@ -93,5 +93,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 # 📚 Baekjoon Online Judge 📚
-![BOJ 1](https://mazandi.herokuapp.com/api?handle=sondaehyeon01)
-![BOJ 1](https://mazandi.herokuapp.com/api?handle=kmu_daehyeon)
+[![BOJ 1](https://mazandi.herokuapp.com/api?handle=sondaehyeon01)](https://solved.ac/profile/sondaehyeon01)
+[![BOJ 2](https://mazandi.herokuapp.com/api?handle=kmu_daehyeon)](https://solved.ac/profile/kmu_daehyeon)
