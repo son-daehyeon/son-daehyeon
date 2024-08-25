@@ -13,7 +13,7 @@
 
 ### 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
 
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
 
@@ -29,33 +29,34 @@
 
 ### 𝐷𝑒𝑣𝑂𝑝𝑠
 
-![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ec2](https://img.shields.io/badge/aws%20ec2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![s3](https://img.shields.io/badge/aws%20s3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 🔧 𝑃𝑟𝑜𝑗𝑒𝑐𝑡𝑠
 
-| 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                        | 𝐴𝑟𝑒𝑎                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|---------------------|-----------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 𝟸𝟶𝟸𝟺. 𝟶𝟹      |                 | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-backend) | ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                                                                                                                                                |
-| 𝟸𝟶𝟸𝟺. 𝟶𝟷      | 𝟸𝟶𝟸𝟺. 𝟶𝟺  | [ZephyR](https://github.com/CS2-ZephyR)                         | ![Frontend](https://img.shields.io/badge/Frontend-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Discord Bot](https://img.shields.io/badge/Discord%20Bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Plugin](https://img.shields.io/badge/Plugin-%23FFFFFF.svg?style=for-the-badge) |
-| 𝟸𝟶𝟸𝟹. 𝟶𝟿      | 𝟸𝟶𝟸𝟹. 𝟷𝟶  | [Music Player](https://github.com/JCHS-Classmate)               | ![Frontend](https://img.shields.io/badge/Frontend-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                            |
-| 𝟸𝟶𝟸𝟹. 𝟶𝟽      | 𝟸𝟶𝟸𝟹. 𝟶𝟿  | [티플](https://github.com/Teacher-Plan)                           | ![IOS](https://img.shields.io/badge/IOS-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                                                 |
-| 𝟸𝟶𝟸𝟹. 𝟶𝟹      | 𝟸𝟶𝟸𝟹. 𝟷𝟸  | [ALGORRITHM](https://github.com/JCHS-ALGORRITHM)                | ![Frontend](https://img.shields.io/badge/Frontend-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                            |
-| 𝟸𝟶𝟸𝟹. 𝟶𝟹      | 𝟸𝟶𝟸𝟹. 𝟶𝟼  | [Classmate](https://github.com/JCHS-Classmate)                  | ![IOS](https://img.shields.io/badge/IOS-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Backend](https://img.shields.io/badge/Backend-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)                                                                                                                                                                                                                                 |
-| 𝟸𝟶𝟸𝟸. 𝟶𝟽      | 𝟸𝟶𝟸𝟸. 𝟶𝟾  | [Ignite](https://github.com/JCHS-Ignite)                        | ![Discord Bot](https://img.shields.io/badge/Discord%20Bot-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)                                                                                                                                                                                                                                                                                                                        |
-| 𝟸𝟶𝟸𝟸. 𝟶𝟾      | 𝟸𝟶𝟸𝟸. 𝟷𝟶  | [Hakuna Matata](https://github.com/JCHS-Hakuna-Matata)          | ![Frontend](https://img.shields.io/badge/Frontend-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![Backend](https://img.shields.io/badge/Backend-000000.svg?style=for-the-badge&logo=express&logoColor=white)                                                                                                                                                                                                                    | 
-| 𝟸𝟶𝟸𝟷. 𝟶𝟽      |                 | [TriggerReactor](https://github.com/TriggerReactor)               | ![Plugin](https://img.shields.io/badge/Plugin-FFFFFF.svg?style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                 |
-
+|                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑆𝑜𝑙𝑜 / 𝑇𝑒𝑎𝑚 |
+|-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
+| ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 𝟸𝟶𝟸𝟺. 𝟶𝟹      | -               | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-backend) | 국민대학교 Wink 공식 홈페이지     | 𝑇𝑒𝑎𝑚            |
+| ![icon](https://avatars.githubusercontent.com/u/165166771?s=32) | 𝟸𝟶𝟸𝟺. 𝟶𝟷      | 𝟸𝟶𝟸𝟺. 𝟶𝟺  | [ZephyR](https://github.com/CS2-ZephyR)                           | Team ZephyR CS2 Plugin | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/141645883?s=32) | 𝟸𝟶𝟸𝟹. 𝟶𝟽      | 𝟸𝟶𝟸𝟹. 𝟶𝟿  | [티플](https://github.com/JCHS-Teacher-Plan)                        | 국내 교사용 시간표 IOS 앱       | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/161309211?s=32) | 𝟸𝟶𝟸𝟹. 𝟶𝟹      | 𝟸𝟶𝟸𝟹. 𝟷𝟸  | [ALGORRITHM](https://github.com/JCHS-ALGORRITHM)                  | 온라인 저지(알고리즘) 사이트       | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/161308270?s=32) | 𝟸𝟶𝟸𝟹. 𝟶𝟹      | 𝟸𝟶𝟸𝟹. 𝟶𝟼  | [Classmate](https://github.com/JCHS-Classmate)                    | 제천고등학교 학생용 시간표 IOS 앱   | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/161309349?s=32) | 𝟸𝟶𝟸𝟸. 𝟶𝟿      | 𝟸𝟶𝟸𝟸. 𝟷𝟶  | [Music Player](https://github.com/JCHS-Music-Player)              | 음악 스트리밍 사이트            | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/161308159?s=32) | 𝟸𝟶𝟸𝟸. 𝟶𝟽      | 𝟸𝟶𝟸𝟸. 𝟶𝟾  | [Ignite](https://github.com/JCHS-Ignite)                          | 제천고등학교 2022 축제 관리 봇    | 𝑆𝑜𝑙𝑜            | 
+| ![icon](https://avatars.githubusercontent.com/u/161309404?s=32) | 𝟸𝟶𝟸𝟸. 𝟶𝟾      | 𝟸𝟶𝟸𝟸. 𝟷𝟶  | [Hakuna Matata](https://github.com/JCHS-Hakuna-Matata)            | 굿즈 판매 쇼핑몰 사이트          | 𝑆𝑜𝑙𝑜            |
+| ![icon](https://avatars.githubusercontent.com/u/61097305?s=32)  | 𝟸𝟶𝟸𝟷. 𝟶𝟽      | -               | [TriggerReactor](https://github.com/TriggerReactor)               | 마인크래프트 스크립팅 플러그인       | 𝑇𝑒𝑎𝑚            |
  
+
 ## 🏆 𝐶𝑜𝑛𝑡𝑒𝑠𝑡𝑠
-| 𝐴𝑤𝑎𝑟𝑑 | 𝐷𝑎𝑡𝑒        | 𝑁𝑎𝑚𝑒                                           | 𝐴𝑟𝑒𝑎                                                                               |
-|------------|-----------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
-| 🥉         | 𝟸𝟶𝟸𝟹. 𝟶𝟾  | 국민대학교 알고리즘 대회                                      | ![Algorithm](https://img.shields.io/badge/Algorithm-000000.svg?style=for-the-badge)    |
-|            | 𝟸𝟶𝟸𝟹. 𝟶𝟿  | [제천일반고등학교연합 해커톤](https://github.com/UOJH-Hackathon) | ![Hackathon](https://img.shields.io/badge/Hackathon-ffffff.svg?style=for-the-badge)    |
-| 🎖         | 𝟸𝟶𝟸𝟹. 𝟶𝟼  | 충북 정보올림피아드                                         | ![Algorithm](https://img.shields.io/badge/Algorithm-000000.svg?style=for-the-badge)    |
-| 🥇         | 𝟸𝟶𝟸𝟹. 𝟷𝟸  | 충북 컴퓨터 꿈나무 축제                                      | ![Competition](https://img.shields.io/badge/Competition-ff0000.svg?style=for-the-badge) |
-|            | 𝟸𝟶𝟸𝟹. 𝟷𝟷  | 충북 소프트웨어 해커톤                                       | ![Hackathon](https://img.shields.io/badge/Hackathon-ffffff.svg?style=for-the-badge)    |
+| 𝐴𝑤𝑎𝑟𝑑 | 𝐷𝑎𝑡𝑒       | 𝑁𝑎𝑚𝑒                                            | 𝐴𝑟𝑒𝑎               |
+|------------|----------------|-----------------------------------------------------|------------------------|
+| -          | 𝟸𝟶𝟸𝟹. 𝟷𝟷 | 충북 소프트웨어 해커톤                                        | 𝐻𝑎𝑐𝑘𝑎𝑡ℎ𝑜𝑛      |
+| -          | 𝟸𝟶𝟸𝟹. 𝟶𝟿 | [제천일반고등학교연합 해커톤](https://github.com/UOJH-Hackathon) | 𝐻𝑎𝑐𝑘𝑎𝑡ℎ𝑜𝑛      |
+| 🥉         | 𝟸𝟶𝟸𝟹. 𝟶𝟾 | 국민대학교 알고리즘 대회                                       | 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚      |
+| 🎖         | 𝟸𝟶𝟸𝟹. 𝟶𝟼 | 충북 정보올림피아드                                          | 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚      |
+| 🥇         | 𝟸𝟶𝟸𝟸. 𝟷𝟸 | 충북 컴퓨터 꿈나무 축제                                       | 𝐶𝑜𝑚𝑝𝑒𝑡𝑖𝑡𝑖𝑜𝑛 |
 
 
 ## 💻 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚
@@ -63,64 +64,27 @@
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sondaehyeon01)](https://solved.ac/sondaehyeon01)
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=kmu_daehyeon)](https://solved.ac/kmu_daehyeon)
 
+
 ## 🕝 𝑊𝑎𝑘𝑎𝑇𝑖𝑚𝑒
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-375.9%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
-
-**🐱 저의 GitHub 정보에요.** 
-
-> 📦 GitHub의 803 Bytes만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 977 만큼의 Contributions을 2024년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 7개의 Public Repository를 만들었어요. 
- > 
-> 🔑 2개의 Private Repository를 만들었어요. 
- > 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
 💬 프로그래밍 언어들: 
-TypeScript               6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Python                   6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-YAML                     3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Kotlin                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+TypeScript               6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Python                   5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+YAML                     3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Markdown                 3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Kotlin                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🐱‍💻 프로젝트들: 
-Wink Frontend            4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Wink Deploy              3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-wink-official            3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-KopringJwt               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-test                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-
-**저는 주로 Java 언어를 사용해요.** 
-
-```text
-Java                     14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Wink Frontend            4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Wink Deploy              3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+wink-official            3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+son-daehyeon             2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+test                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 
-
-**타임라인**
-
-![Lines of Code chart](https://raw.githubusercontent.com/son-daehyeon/son-daehyeon/master/assets/bar_graph.png)
-
-
- Last Updated on 25/08/2024 13:40:32 UTC
 <!--END_SECTION:waka-->
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16222A,100:3A6073&section=footer)
