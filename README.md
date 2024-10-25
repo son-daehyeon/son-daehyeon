@@ -67,20 +67,3 @@
 
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sondaehyeon01)](https://solved.ac/sondaehyeon01)
 [![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=kmu_daehyeon)](https://solved.ac/kmu_daehyeon)
-
-
-## 🕝 𝑊𝑎𝑘𝑎𝑇𝑖𝑚𝑒
-
-<!--START_SECTION:waka-->
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
-```
-
-
-<!--END_SECTION:waka-->
