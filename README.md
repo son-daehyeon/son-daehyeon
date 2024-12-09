@@ -65,5 +65,5 @@
 
 ## 💻 𝐴𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚
 
-[![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sondaehyeon01)](https://solved.ac/sondaehyeon01)
-[![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=kmu_daehyeon)](https://solved.ac/kmu_daehyeon)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sondaehyeon01)](https://solved.ac/sondaehyeon01/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmu_daehyeon)](https://solved.ac/kmu_daehyeon/)
