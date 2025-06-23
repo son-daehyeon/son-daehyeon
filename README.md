@@ -8,31 +8,65 @@
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
-![Spring](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Other
+### Monitor
+
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+### Container
 
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Cloud
+
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge) <!-- 오렌지 -->
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FD8900.svg?style=for-the-badge) <!-- 진한 주황 -->
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?style=for-the-badge) <!-- 파랑 -->
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge) <!-- 녹색 -->
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-4B32C3.svg?style=for-the-badge) <!-- 보라 -->
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-F58534.svg?style=for-the-badge) <!-- 오렌지 -->
+![AWS ELB](https://img.shields.io/badge/AWS%20ELB-D13212.svg?style=for-the-badge) <!-- 붉은색 -->
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-4A154B.svg?style=for-the-badge) <!-- 보라 -->
+![AWS Route 53](https://img.shields.io/badge/AWS%20Route%2053-232F3E.svg?style=for-the-badge) <!-- 거의 검정 -->
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-8931CC.svg?style=for-the-badge) <!-- 자주 -->
+
+### CI-CD
+
+![Github Actions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 ## Projects
 
 |                                                                 | Start    | End      | Name                                                                  | Description                  |
 |-----------------------------------------------------------------|----------|----------|------------------------------------------------------------------------|------------------------------|
+|  | 2025.05  | 2025.06  | [KMU:DB Playground](https://github.com/son-daehyeon/kmudb-playground-client)| 국민대학교 데이터베이스 기말고사 연습 사이트         |
 | ![icon](https://avatars.githubusercontent.com/u/202942184?s=32) | 2025.03  | 2025.06  | [Classpick](https://github.com/classpick-alpha)                       | 강의실 예약 플랫폼          |
 |  | 2025.03  | 2025.05  | [Seoul IN Culture](https://github.com/KMU-WINK/seoul-in-culture-client)| 행사 탐색 및 모임 플랫폼         |
 |  | 2025.04  | 2025.04  | [Tably](https://github.com/KMU-WINK/tably-frontend)                   | 국민대학교 소융대 동아리 공용공간 예약 사이트 |
