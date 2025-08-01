@@ -66,11 +66,11 @@
 
 |                                                                 | Start    | End      | Name                                                                  | Description                  |
 |-----------------------------------------------------------------|----------|----------|------------------------------------------------------------------------|------------------------------|
-|  | 2025.05  | 2025.06  | [KMU:DB Playground](https://github.com/son-daehyeon/kmudb-playground-client)| 국민대학교 데이터베이스 기말고사 연습 사이트         |
+|  | 2025.05  | 2025.06  | [KMU:DB Playground](https://github.com/son-daehyeon/kmudb-playground-server)| 국민대학교 데이터베이스 기말고사 연습 사이트         |
 | ![icon](https://avatars.githubusercontent.com/u/202942184?s=32) | 2025.03  | 2025.06  | [Classpick](https://github.com/classpick-alpha)                       | 강의실 예약 플랫폼          |
 |  | 2025.03  | 2025.05  | [Seoul IN Culture](https://github.com/KMU-WINK/seoul-in-culture-client)| 행사 탐색 및 모임 플랫폼         |
-|  | 2025.04  | 2025.04  | [Tably](https://github.com/KMU-WINK/tably-frontend)                   | 국민대학교 소융대 동아리 공용공간 예약 사이트 |
-| ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 2024.03  | 2024.12  | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-backend) | 국민대학교 Wink 공식 홈페이지 |
+|  | 2025.04  | 2025.04  | [Tably](https://github.com/KMU-WINK/tably-server)                   | 국민대학교 소융대 동아리 공용공간 예약 사이트 |
+| ![icon](https://avatars.githubusercontent.com/u/69004745?s=32)  | 2024.03  | 2024.12  | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-page-server) | 국민대학교 Wink 공식 홈페이지 |
 | ![icon](https://avatars.githubusercontent.com/u/183178341?s=32) | 2024.09  | 2024.09  | [Idea Bank](https://github.com/Cokothon-Idea-Bank)                    | 아이디어 공유 플랫폼         |
 | ![icon](https://avatars.githubusercontent.com/u/179787666?s=32) | 2024.09  | 2024.09  | [Tripee](https://github.com/Winkathon-Tripee)                         | 여행 계획 공유 플랫폼        |
 | ![icon](https://avatars.githubusercontent.com/u/165166771?s=32) | 2024.01  | 2024.04  | [ZephyR](https://github.com/CS2-ZephyR)                               | Team ZephyR CS2 Plugin       |
