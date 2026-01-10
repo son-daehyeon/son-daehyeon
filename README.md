@@ -107,7 +107,6 @@ const daehyeon = {
 | 2025 | [Seoul IN Culture](https://github.com/KMU-WINK/seoul-in-culture-client) | 서울 문화 행사 탐색 및 모임 플랫폼 | `Next.js` |
 | 2025 | [Tably](https://github.com/KMU-WINK/tably-server) | 동아리 공용공간 예약 시스템 | `Spring Boot` |
 | 2024 | [Wink 공식 홈페이지](https://github.com/KMU-WINK/wink-official-page-server) | 국민대학교 Wink 공식 홈페이지 | `Next.js` `Spring Boot` |
-| 2024 | [Work in Korea](https://github.com/KMU-WINK/workinkorea) | 2024 관광데이터 활용 공모전 | `Next.js` |
 | 2024 | [Idea Bank](https://github.com/Cokothon-Idea-Bank) | 아이디어 공유 플랫폼 (해커톤 🥉) | `React` `Spring Boot` |
 | 2024 | [Tripee](https://github.com/Winkathon-Tripee) | 여행 계획 공유 플랫폼 (해커톤 🥇) | `Svelte` `Spring Boot` |
 | 2024 | [ZephyR](https://github.com/CS2-ZephyR) | CS2 게임 플러그인 및 봇 | `C#` `Java` |
