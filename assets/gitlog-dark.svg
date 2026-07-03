@@ -20,14 +20,14 @@
     <tspan fill="#79c0ff" dx="6">~</tspan>
     <tspan fill="#e6edf3" dx="10">git log --oneline -8</tspan>
   </text>
-  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">9505c2a</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">fix: snake 색상 파라미터 URL 인코딩 (# → %23)</tspan></text>
-  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">2bb5aeb</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">fix: snake 잔디 색상 개선 - 저강도 셀 가시성 확보, 퍼플 팔레트 적용</tspan></text>
-  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">d7ea256</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">feat: 프로필 꾸미기 - neofetch 카드, git log 카드, contribut…</tspan></text>
-  <text x="36" y="206" font-size="15"><tspan fill="#ffbd2e">31a4f75</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
-  <text x="36" y="232" font-size="15"><tspan fill="#ffbd2e">a91b70c</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
-  <text x="36" y="258" font-size="15"><tspan fill="#ffbd2e">b2c7767</tspan><tspan fill="#79c0ff" dx="12" opacity="0.55" filter="url(#blur)">█████████</tspan><tspan fill="#e6edf3" dx="12" opacity="0.45" filter="url(#blur)">████████ █████ ███ ████ ████ ███ ████</tspan><tspan fill="#8b949e" dx="12" font-size="12">&#128274; private</tspan></text>
-  <text x="36" y="284" font-size="15"><tspan fill="#ffbd2e">96d540e</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">Update README.md</tspan></text>
-  <text x="36" y="310" font-size="15"><tspan fill="#ffbd2e">c7424c4</tspan><tspan fill="#79c0ff" dx="12" opacity="0.55" filter="url(#blur)">██████████</tspan><tspan fill="#e6edf3" dx="12" opacity="0.45" filter="url(#blur)">███ ████ ███████ █████ ███████ ███ ███████</tspan><tspan fill="#8b949e" dx="12" font-size="12">&#128274; private</tspan></text>
+  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">f6d1ad8</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">chore: git log 카드 재생성 - private 블러 라인 포함</tspan></text>
+  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">d8f430b</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">feat: git log 카드에 private 커밋 블러 표시 - 원문 미포함 블록 글리프…</tspan></text>
+  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">9505c2a</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">fix: snake 색상 파라미터 URL 인코딩 (# → %23)</tspan></text>
+  <text x="36" y="206" font-size="15"><tspan fill="#ffbd2e">2bb5aeb</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">fix: snake 잔디 색상 개선 - 저강도 셀 가시성 확보, 퍼플 팔레트 적용</tspan></text>
+  <text x="36" y="232" font-size="15"><tspan fill="#ffbd2e">d7ea256</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">feat: 프로필 꾸미기 - neofetch 카드, git log 카드, contribut…</tspan></text>
+  <text x="36" y="258" font-size="15"><tspan fill="#ffbd2e">31a4f75</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
+  <text x="36" y="284" font-size="15"><tspan fill="#ffbd2e">a91b70c</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
+  <text x="36" y="310" font-size="15"><tspan fill="#ffbd2e">b2c7767</tspan><tspan fill="#79c0ff" dx="12" opacity="0.55" filter="url(#blur)">█████████</tspan><tspan fill="#e6edf3" dx="12" opacity="0.45" filter="url(#blur)">████████ █████ ███ ████ ████ ███ ████</tspan><tspan fill="#8b949e" dx="12" font-size="12">&#128274; private</tspan></text>
   <text x="36" y="356" font-size="16">
     <tspan fill="#7ee787" font-weight="700">&#10148;</tspan>
     <tspan fill="#79c0ff" dx="6">~</tspan>
