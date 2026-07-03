@@ -1,10 +1,13 @@
-<svg width="880" height="336" viewBox="0 0 880 336" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="388" viewBox="0 0 880 388" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Menlo, Consolas, monospace; white-space: pre; }
     .cursor { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect x="1" y="1" width="878" height="334" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <defs>
+    <filter id="blur"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+  <rect x="1" y="1" width="878" height="386" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
   <rect x="2" y="2" width="876" height="48" rx="15" fill="#f6f8fa"/>
   <rect x="2" y="36" width="876" height="14" fill="#f6f8fa"/>
   <line x1="2" y1="50" x2="878" y2="50" stroke="#d0d7de" stroke-width="1"/>
@@ -15,17 +18,19 @@
   <text x="36" y="94" font-size="16">
     <tspan fill="#1a7f37" font-weight="700">&#10148;</tspan>
     <tspan fill="#0969da" dx="6">~</tspan>
-    <tspan fill="#1f2328" dx="10">git log --oneline -6</tspan>
+    <tspan fill="#1f2328" dx="10">git log --oneline -8</tspan>
   </text>
-  <text x="36" y="128" font-size="15"><tspan fill="#9a6700">2bb5aeb</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">fix: snake 잔디 색상 개선 - 저강도 셀 가시성 확보, 퍼플 팔레트 적용</tspan></text>
-  <text x="36" y="154" font-size="15"><tspan fill="#9a6700">d7ea256</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">feat: 프로필 꾸미기 - neofetch 카드, git log 카드, contribut…</tspan></text>
-  <text x="36" y="180" font-size="15"><tspan fill="#9a6700">31a4f75</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
-  <text x="36" y="206" font-size="15"><tspan fill="#9a6700">a91b70c</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
-  <text x="36" y="232" font-size="15"><tspan fill="#9a6700">96d540e</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">Update README.md</tspan></text>
-  <text x="36" y="258" font-size="15"><tspan fill="#9a6700">2e7747c</tspan><tspan fill="#0969da" dx="12">BE</tspan><tspan fill="#1f2328" dx="12">fix(mail): 발신 메일 주소 설정 분리</tspan></text>
-  <text x="36" y="304" font-size="16">
+  <text x="36" y="128" font-size="15"><tspan fill="#9a6700">9505c2a</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">fix: snake 색상 파라미터 URL 인코딩 (# → %23)</tspan></text>
+  <text x="36" y="154" font-size="15"><tspan fill="#9a6700">2bb5aeb</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">fix: snake 잔디 색상 개선 - 저강도 셀 가시성 확보, 퍼플 팔레트 적용</tspan></text>
+  <text x="36" y="180" font-size="15"><tspan fill="#9a6700">d7ea256</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">feat: 프로필 꾸미기 - neofetch 카드, git log 카드, contribut…</tspan></text>
+  <text x="36" y="206" font-size="15"><tspan fill="#9a6700">31a4f75</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
+  <text x="36" y="232" font-size="15"><tspan fill="#9a6700">a91b70c</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
+  <text x="36" y="258" font-size="15"><tspan fill="#9a6700">b2c7767</tspan><tspan fill="#0969da" dx="12" opacity="0.55" filter="url(#blur)">█████████</tspan><tspan fill="#1f2328" dx="12" opacity="0.45" filter="url(#blur)">████████ █████ ███ ████ ████ ███ ████</tspan><tspan fill="#57606a" dx="12" font-size="12">&#128274; private</tspan></text>
+  <text x="36" y="284" font-size="15"><tspan fill="#9a6700">96d540e</tspan><tspan fill="#0969da" dx="12">son-daehyeon</tspan><tspan fill="#1f2328" dx="12">Update README.md</tspan></text>
+  <text x="36" y="310" font-size="15"><tspan fill="#9a6700">c7424c4</tspan><tspan fill="#0969da" dx="12" opacity="0.55" filter="url(#blur)">██████████</tspan><tspan fill="#1f2328" dx="12" opacity="0.45" filter="url(#blur)">███ ████ ███████ █████ ███████ ███ ███████</tspan><tspan fill="#57606a" dx="12" font-size="12">&#128274; private</tspan></text>
+  <text x="36" y="356" font-size="16">
     <tspan fill="#1a7f37" font-weight="700">&#10148;</tspan>
     <tspan fill="#0969da" dx="6">~</tspan>
   </text>
-  <rect class="cursor" x="86" y="290" width="10" height="18" fill="#24292f"/>
+  <rect class="cursor" x="86" y="342" width="10" height="18" fill="#24292f"/>
 </svg>
