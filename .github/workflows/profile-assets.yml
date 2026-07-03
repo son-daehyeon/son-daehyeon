@@ -35,8 +35,8 @@ jobs:
         with:
           github_user_name: son-daehyeon
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#8b7cf6
-            dist/snake-light.svg?palette=github-light&color_snake=#8250df
+            dist/snake-dark.svg?color_snake=#7ee787&color_dots=#21262d,#4c3d8f,#6b5bc4,#8b7cf6,#bf91f3
+            dist/snake-light.svg?color_snake=#1a7f37&color_dots=#eff2f5,#d8c9f7,#b39ae8,#8957e5,#6639ba
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
