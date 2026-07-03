@@ -16,7 +16,9 @@ jobs:
 
       - name: Generate git log cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GH_PAT(repo 스코프)가 있어야 private 커밋이 블러 라인으로 포함된다.
+          # 없으면 기본 토큰으로 동작하되 public 커밋만 노출된다.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: python3 scripts/generate_gitlog.py
 
       - name: Commit updated assets

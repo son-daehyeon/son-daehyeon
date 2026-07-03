@@ -7,7 +7,7 @@ import urllib.request
 from xml.sax.saxutils import escape
 
 USER = "son-daehyeon"
-LIMIT = 6
+LIMIT = 8
 OUT = {
     "dark": "assets/gitlog-dark.svg",
     "light": "assets/gitlog-light.svg",
@@ -44,38 +44,62 @@ def collect_commits():
 
     commits = []
     for item in items:
-        if item["repository"].get("private"):
-            continue
         message = item["commit"]["message"].splitlines()[0]
         if message.startswith("Merge "):
             continue
+        private = bool(item["repository"].get("private"))
         repo = item["repository"]["name"]
-        commits.append((
-            item["sha"][:7],
-            repo[:28],
-            message[:50] + ("…" if len(message) > 50 else ""),
-        ))
+        commits.append({
+            "sha": item["sha"][:7],
+            # 원문은 SVG에 절대 싣지 않는다 — private면 여기서 즉시 폐기
+            "repo": None if private else repo[:28],
+            "message": None if private else message[:50] + ("…" if len(message) > 50 else ""),
+            "private": private,
+        })
         if len(commits) >= LIMIT:
             break
     return commits
+
+
+def fake_word_lengths(sha):
+    """SHA에서 유도한 가짜 단어 길이 패턴 — 실제 메시지와 무관해 정보 유출이 없다."""
+    lengths = []
+    for ch in sha:
+        lengths.append(3 + int(ch, 16) % 6)
+        if sum(lengths) + len(lengths) > 38:
+            break
+    return lengths
 
 
 def render(commits, palette):
     p = palette
     lines = []
     y = 128
-    for sha, repo, message in commits:
-        lines.append(
-            f'  <text x="36" y="{y}" font-size="15">'
-            f'<tspan fill="{p["sha"]}">{sha}</tspan>'
-            f'<tspan fill="{p["repo"]}" dx="12">{escape(repo)}</tspan>'
-            f'<tspan fill="{p["msg"]}" dx="12">{escape(message)}</tspan>'
-            f"</text>"
-        )
+    for c in commits:
+        if c["private"]:
+            # repo명·메시지 모두 SHA 유도 블록 글리프 + blur 필터. 원문은 파일에 존재하지 않는다.
+            blocks = " ".join("█" * n for n in fake_word_lengths(c["sha"]))
+            repo_blocks = "█" * (6 + int(c["sha"][0], 16) % 8)
+            lines.append(
+                f'  <text x="36" y="{y}" font-size="15">'
+                f'<tspan fill="{p["sha"]}">{c["sha"]}</tspan>'
+                f'<tspan fill="{p["repo"]}" dx="12" opacity="0.55" filter="url(#blur)">{repo_blocks}</tspan>'
+                f'<tspan fill="{p["msg"]}" dx="12" opacity="0.45" filter="url(#blur)">{blocks}</tspan>'
+                f'<tspan fill="{p["title"]}" dx="12" font-size="12">&#128274; private</tspan>'
+                f"</text>"
+            )
+        else:
+            lines.append(
+                f'  <text x="36" y="{y}" font-size="15">'
+                f'<tspan fill="{p["sha"]}">{c["sha"]}</tspan>'
+                f'<tspan fill="{p["repo"]}" dx="12">{escape(c["repo"])}</tspan>'
+                f'<tspan fill="{p["msg"]}" dx="12">{escape(c["message"])}</tspan>'
+                f"</text>"
+            )
         y += 26
     if not commits:
         lines.append(
-            f'  <text x="36" y="128" font-size="15" fill="{p["msg"]}">no recent public commits</text>'
+            f'  <text x="36" y="128" font-size="15" fill="{p["msg"]}">no recent commits</text>'
         )
         y = 154
 
@@ -88,6 +112,9 @@ def render(commits, palette):
     .cursor {{ animation: blink 1.1s steps(1) infinite; }}
     @keyframes blink {{ 50% {{ opacity: 0; }} }}
   </style>
+  <defs>
+    <filter id="blur"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
   <rect x="1" y="1" width="878" height="{height - 2}" rx="16" fill="{p["bg"]}" stroke="{p["border"]}" stroke-width="2"/>
   <rect x="2" y="2" width="876" height="48" rx="15" fill="{p["bar"]}"/>
   <rect x="2" y="36" width="876" height="14" fill="{p["bar"]}"/>
