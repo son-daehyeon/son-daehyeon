@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NyAySDMuNTNhMS40NSAxLjQ1IDAgMCAwLTEuNDcgMS40M3YxNy4xNEExLjQ1IDEuNDUgMCAwIDAgMy41MyAyMmgxNi45NGExLjQ1IDEuNDUgMCAwIDAgMS40Ny0xLjQzVjMuNDNBMS40NSAxLjQ1IDAgMCAwIDIwLjQ3IDJaTTguMDkgMTguNzRINS40MlY5LjMzaDIuNjd2OS40MVpNNi43NSA4LjA2YTEuNTQgMS41NCAwIDEgMSAwLTMuMDggMS41NCAxLjU0IDAgMCAxIDAgMy4wOFptMTIuMDQgMTAuNjhoLTIuNjd2LTQuNTdjMC0xLjA5IDAtMi40OS0xLjUyLTIuNDktMS41MiAwLTEuNzUgMS4xOS0xLjc1IDIuNDF2NC42NWgtMi42N1Y5LjMzaDIuNTZ2MS4yOWguMDRhMi44IDIuOCAwIDAgMSAyLjUyLTEuMzljMi42OSAwIDMuMTkgMS43NyAzLjE5IDQuMDd2NS40NFoiLz48L3N2Zz4=)](https://www.linkedin.com/in/son-daehyeon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/son-daehyeon)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fson-daehyeon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://github.com/son-daehyeon)
-
 </div>
 
 ---
