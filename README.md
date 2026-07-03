@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="880" alt="daehyeon@zighang: ~/profile — whoami: Daehyeon Son, Product Owner @ Zighang" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header.svg" width="880" alt="daehyeon@zighang: ~/profile — whoami: Daehyeon Son, Product Owner @ Zighang" />
+</picture>
 
 <br/><br/>
 
@@ -13,18 +17,15 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const daehyeon = {
-  company: "Zighang",
-  role: "Product Owner",
-  education: "Kookmin Univ. Software Engineering",
+<div align="center">
 
-  domains: ["Backend", "Infrastructure", "Product"],
-  motto: "Own the problem end-to-end.",
-  // I design, build, ship, and operate —
-  // from infrastructure to product decisions.
-} as const;
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
+  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Role: Product Owner @ Zighang, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
+</picture>
+
+</div>
 
 <br/>
 
@@ -170,6 +171,22 @@ const daehyeon = {
 ## 📈 Contributions
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/gitlog-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/gitlog-light.svg" />
+  <img src="./assets/gitlog-dark.svg" width="880" alt="git log --oneline — recent public commits (auto-updated daily)" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/son-daehyeon/son-daehyeon/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/son-daehyeon/son-daehyeon/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/son-daehyeon/son-daehyeon/output/snake-dark.svg" width="880" alt="contribution snake" />
+</picture>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=son-daehyeon&custom_title=daehyeon%40zighang%3A%20~%2Fcontributions&bg_color=0d1117&color=8b949e&line=8b7cf6&point=bf91f3&area=true&area_color=8b7cf6&hide_border=true" width="880" />
 

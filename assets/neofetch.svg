@@ -1,0 +1,93 @@
+<svg width="880" height="420" viewBox="0 0 880 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Menlo, Consolas, monospace;
+      white-space: pre;
+    }
+    .line {
+      opacity: 0;
+      animation: fadeIn 0.4s ease forwards;
+    }
+    .d0 { animation-delay: 0.3s; }
+    .d1 { animation-delay: 0.7s; }
+    .d2 { animation-delay: 0.85s; }
+    .d3 { animation-delay: 1.0s; }
+    .d4 { animation-delay: 1.15s; }
+    .d5 { animation-delay: 1.3s; }
+    .d6 { animation-delay: 1.45s; }
+    .d7 { animation-delay: 1.6s; }
+    .d8 { animation-delay: 1.75s; }
+    .d9 { animation-delay: 1.9s; }
+    .d10 { animation-delay: 2.05s; }
+    .d11 { animation-delay: 2.2s; }
+    .d12 { animation-delay: 2.5s; }
+    .cursor {
+      opacity: 0;
+      animation: fadeIn 0.1s ease 2.7s forwards, blink 1.1s steps(1) 2.8s infinite;
+    }
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- terminal window -->
+  <rect x="1" y="1" width="878" height="418" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- title bar -->
+  <rect x="2" y="2" width="876" height="48" rx="15" fill="#161b22"/>
+  <rect x="2" y="36" width="876" height="14" fill="#161b22"/>
+  <line x1="2" y1="50" x2="878" y2="50" stroke="#30363d" stroke-width="1"/>
+  <circle cx="30" cy="26" r="7" fill="#ff5f56"/>
+  <circle cx="54" cy="26" r="7" fill="#ffbd2e"/>
+  <circle cx="78" cy="26" r="7" fill="#27c93f"/>
+  <text x="440" y="31" fill="#8b949e" font-size="13" text-anchor="middle">daehyeon@zighang: ~/about</text>
+
+  <!-- $ neofetch -->
+  <text class="line d0" x="36" y="92" font-size="16">
+    <tspan fill="#7ee787" font-weight="700">&#10148;</tspan>
+    <tspan fill="#79c0ff" dx="6">~</tspan>
+    <tspan fill="#e6edf3" dx="10">neofetch</tspan>
+  </text>
+
+  <!-- ASCII art: DS -->
+  <g font-size="15" font-weight="700">
+    <text class="line d1" x="36" y="140" fill="#8b7cf6">&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9557;&#160;&#160;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9557;</text>
+    <text class="line d2" x="36" y="162" fill="#8b7cf6">&#9608;&#9608;&#9552;&#9552;&#9552;&#9552;&#9608;&#9608;&#9557;&#9608;&#9608;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;</text>
+    <text class="line d3" x="36" y="184" fill="#9b8bf4">&#9608;&#9608;&#9553;&#160;&#160;&#160;&#160;&#9608;&#9608;&#9553;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9557;</text>
+    <text class="line d4" x="36" y="206" fill="#ab97f4">&#9608;&#9608;&#9553;&#160;&#160;&#160;&#160;&#9608;&#9608;&#9553;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9608;&#9608;&#9553;</text>
+    <text class="line d5" x="36" y="228" fill="#bf91f3">&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9563;&#9565;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9553;</text>
+    <text class="line d6" x="36" y="250" fill="#bf91f3">&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;&#160;&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;</text>
+  </g>
+
+  <!-- specs -->
+  <g font-size="15">
+    <text class="line d1" x="360" y="140"><tspan fill="#bf91f3" font-weight="700">daehyeon</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#bf91f3" font-weight="700">zighang</tspan></text>
+    <text class="line d2" x="360" y="162" fill="#484f58">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</text>
+    <text class="line d3" x="360" y="184"><tspan fill="#7ee787" font-weight="700">Role</tspan><tspan fill="#e6edf3">: Product Owner @ Zighang</tspan></text>
+    <text class="line d4" x="360" y="206"><tspan fill="#7ee787" font-weight="700">Uptime</tspan><tspan fill="#e6edf3">: coding since 2021</tspan></text>
+    <text class="line d5" x="360" y="228"><tspan fill="#7ee787" font-weight="700">Kernel</tspan><tspan fill="#e6edf3">: Kotlin &#183; TypeScript &#183; Go</tspan></text>
+    <text class="line d6" x="360" y="250"><tspan fill="#7ee787" font-weight="700">Shell</tspan><tspan fill="#e6edf3">: Spring Boot &#183; Next.js</tspan></text>
+    <text class="line d7" x="360" y="272"><tspan fill="#7ee787" font-weight="700">Memory</tspan><tspan fill="#e6edf3">: PostgreSQL &#183; Redis &#183; Kafka</tspan></text>
+    <text class="line d8" x="360" y="294"><tspan fill="#7ee787" font-weight="700">GPU</tspan><tspan fill="#e6edf3">: Backend &#215; Infra &#215; Product</tspan></text>
+    <text class="line d9" x="360" y="316"><tspan fill="#7ee787" font-weight="700">DE</tspan><tspan fill="#e6edf3">: IntelliJ IDEA &#183; zsh</tspan></text>
+    <text class="line d10" x="360" y="338"><tspan fill="#7ee787" font-weight="700">Education</tspan><tspan fill="#e6edf3">: Kookmin Univ. SW</tspan></text>
+  </g>
+
+  <!-- color palette -->
+  <g class="line d11">
+    <rect x="360" y="356" width="26" height="14" fill="#ff5f56"/>
+    <rect x="386" y="356" width="26" height="14" fill="#ffbd2e"/>
+    <rect x="412" y="356" width="26" height="14" fill="#27c93f"/>
+    <rect x="438" y="356" width="26" height="14" fill="#79c0ff"/>
+    <rect x="464" y="356" width="26" height="14" fill="#8b7cf6"/>
+    <rect x="490" y="356" width="26" height="14" fill="#bf91f3"/>
+    <rect x="516" y="356" width="26" height="14" fill="#7ee787"/>
+    <rect x="542" y="356" width="26" height="14" fill="#e6edf3"/>
+  </g>
+
+  <!-- prompt + blinking cursor -->
+  <text class="line d12" x="36" y="394" font-size="16">
+    <tspan fill="#7ee787" font-weight="700">&#10148;</tspan>
+    <tspan fill="#79c0ff" dx="6">~</tspan>
+  </text>
+  <rect class="cursor" x="86" y="380" width="10" height="18" fill="#e6edf3"/>
+</svg>
