@@ -2,7 +2,7 @@ name: Update profile assets
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 09:00 KST
+    - cron: "0 * * * *" # 매시 정각
   workflow_dispatch:
 
 permissions:

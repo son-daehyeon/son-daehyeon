@@ -174,10 +174,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=son-daehyeon&custom_title=daehyeon%40zighang%3A%20~%2Fcontributions&bg_color=0d1117&color=8b949e&line=8b7cf6&point=bf91f3&area=true&area_color=8b7cf6&hide_border=true" width="880" />
-
-<br/><br/>
-
 `$ exit`
 
 </div>

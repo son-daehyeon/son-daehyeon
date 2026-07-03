@@ -7,7 +7,7 @@ import urllib.request
 from xml.sax.saxutils import escape
 
 USER = "son-daehyeon"
-LIMIT = 8
+LIMIT = 15
 OUT = {
     "dark": "assets/gitlog-dark.svg",
     "light": "assets/gitlog-light.svg",
