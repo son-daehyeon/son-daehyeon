@@ -1,29 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header.svg" width="880" alt="daehyeon@zighang: ~/profile — whoami: Daehyeon Son, Product Owner @ Zighang" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
+  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Daehyeon Son, Product Owner @ Zighang, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
 </picture>
 
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sondaehyeon01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NyAySDMuNTNhMS40NSAxLjQ1IDAgMCAwLTEuNDcgMS40M3YxNy4xNEExLjQ1IDEuNDUgMCAwIDAgMy41MyAyMmgxNi45NGExLjQ1IDEuNDUgMCAwIDAgMS40Ny0xLjQzVjMuNDNBMS40NSAxLjQ1IDAgMCAwIDIwLjQ3IDJaTTguMDkgMTguNzRINS40MlY5LjMzaDIuNjd2OS40MVpNNi43NSA4LjA2YTEuNTQgMS41NCAwIDEgMSAwLTMuMDggMS41NCAxLjU0IDAgMCAxIDAgMy4wOFptMTIuMDQgMTAuNjhoLTIuNjd2LTQuNTdjMC0xLjA5IDAtMi40OS0xLjUyLTIuNDktMS41MiAwLTEuNzUgMS4xOS0xLjc1IDIuNDF2NC42NWgtMi42N1Y5LjMzaDIuNTZ2MS4yOWguMDRhMi44IDIuOCAwIDAgMSAyLjUyLTEuMzljMi42OSAwIDMuMTkgMS43NyAzLjE5IDQuMDd2NS40NFoiLz48L3N2Zz4=)](https://www.linkedin.com/in/son-daehyeon)
-
-</div>
-
-<br/>
-
-## 🧑‍💻 About Me
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
-  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Role: Product Owner @ Zighang, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
-</picture>
 
 </div>
 
