@@ -1,10 +1,10 @@
-<svg width="880" height="258" viewBox="0 0 880 258" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="336" viewBox="0 0 880 336" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Menlo, Consolas, monospace; white-space: pre; }
     .cursor { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <rect x="1" y="1" width="878" height="256" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="334" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <rect x="2" y="2" width="876" height="48" rx="15" fill="#161b22"/>
   <rect x="2" y="36" width="876" height="14" fill="#161b22"/>
   <line x1="2" y1="50" x2="878" y2="50" stroke="#30363d" stroke-width="1"/>
@@ -17,12 +17,15 @@
     <tspan fill="#79c0ff" dx="6">~</tspan>
     <tspan fill="#e6edf3" dx="10">git log --oneline -6</tspan>
   </text>
-  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">31a4f75</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
-  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">a91b70c</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
-  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">96d540e</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">Update README.md</tspan></text>
-  <text x="36" y="226" font-size="16">
+  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">d7ea256</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">feat: 프로필 꾸미기 - neofetch 카드, git log 카드, contribut…</tspan></text>
+  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">31a4f75</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: Activities 기간 갱신 - WINK Member 복귀, Zighang 종…</tspan></text>
+  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">a91b70c</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">docs: README 리뉴얼 - 커스텀 터미널 헤더, 스택/활동/프로젝트 갱신</tspan></text>
+  <text x="36" y="206" font-size="15"><tspan fill="#ffbd2e">96d540e</tspan><tspan fill="#79c0ff" dx="12">son-daehyeon</tspan><tspan fill="#e6edf3" dx="12">Update README.md</tspan></text>
+  <text x="36" y="232" font-size="15"><tspan fill="#ffbd2e">2e7747c</tspan><tspan fill="#79c0ff" dx="12">BE</tspan><tspan fill="#e6edf3" dx="12">fix(mail): 발신 메일 주소 설정 분리</tspan></text>
+  <text x="36" y="258" font-size="15"><tspan fill="#ffbd2e">f4d6bf1</tspan><tspan fill="#79c0ff" dx="12">BE</tspan><tspan fill="#e6edf3" dx="12">feat: 회원탈퇴 및 다운로드 이메일 전송 API</tspan></text>
+  <text x="36" y="304" font-size="16">
     <tspan fill="#7ee787" font-weight="700">&#10148;</tspan>
     <tspan fill="#79c0ff" dx="6">~</tspan>
   </text>
-  <rect class="cursor" x="86" y="212" width="10" height="18" fill="#e6edf3"/>
+  <rect class="cursor" x="86" y="290" width="10" height="18" fill="#e6edf3"/>
 </svg>
