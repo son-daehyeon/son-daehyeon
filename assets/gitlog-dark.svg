@@ -20,21 +20,21 @@
     <tspan fill="#79c0ff" dx="6">~</tspan>
     <tspan fill="#e6edf3" dx="10">git log --oneline -15</tspan>
   </text>
-  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">d28c78b</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">ci: PR 자동화 워크플로우 및 CODEOWNERS 추가 (#6)</tspan></text>
-  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">f5a899f</tspan><tspan fill="#79c0ff" dx="12" opacity="0.55" filter="url(#blur)">█████████████</tspan><tspan fill="#e6edf3" dx="12" opacity="0.45" filter="url(#blur)">██████ ████████ ███████ █████ ██████ ██████</tspan><tspan fill="#8b949e" dx="12" font-size="12">&#128274; private</tspan></text>
-  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">ced8f20</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): UUIDv7과 API 버저닝 메모 추가</tspan></text>
-  <text x="36" y="206" font-size="15"><tspan fill="#ffbd2e">5316270</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(db): 마이그레이션 동시 편집과 jOOQ 루틴 생성 제외</tspan></text>
-  <text x="36" y="232" font-size="15"><tspan fill="#ffbd2e">7cafc80</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(db): pgvector 확장 활성화</tspan></text>
-  <text x="36" y="258" font-size="15"><tspan fill="#ffbd2e">f8870e9</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">ci(github): 커버리지 PR 리포트 추가</tspan></text>
-  <text x="36" y="284" font-size="15"><tspan fill="#ffbd2e">96f85e1</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(infra): JDK 25 AOT 캐시 적용</tspan></text>
-  <text x="36" y="310" font-size="15"><tspan fill="#ffbd2e">f97a441</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">chore(gradle): Kover 커버리지 도구 추가</tspan></text>
-  <text x="36" y="336" font-size="15"><tspan fill="#ffbd2e">e2ccf31</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(config): 가상 스레드 활성화</tspan></text>
-  <text x="36" y="362" font-size="15"><tspan fill="#ffbd2e">7af339b</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): dto 검증 어노테이션 규칙 추가</tspan></text>
-  <text x="36" y="388" font-size="15"><tspan fill="#ffbd2e">c3824c4</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): AGENTS.md 계층 문서 구축</tspan></text>
-  <text x="36" y="414" font-size="15"><tspan fill="#ffbd2e">fa0c826</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(readme): README 작성</tspan></text>
-  <text x="36" y="440" font-size="15"><tspan fill="#ffbd2e">6b8b2f2</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">refactor(error): 에러 코드 형식을 COMMON-000 형태로 변경</tspan></text>
-  <text x="36" y="466" font-size="15"><tspan fill="#ffbd2e">78c5795</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(config): 리버스 프록시 forwarded 헤더 처리 추가</tspan></text>
-  <text x="36" y="492" font-size="15"><tspan fill="#ffbd2e">16beffb</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">chore(swagger): contact 이름 수정</tspan></text>
+  <text x="36" y="128" font-size="15"><tspan fill="#ffbd2e">9b1c5af</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">chore: jOOQ 생성 코드 kover 커버리지 제외 및 PR diff 접힘 처리 (#…</tspan></text>
+  <text x="36" y="154" font-size="15"><tspan fill="#ffbd2e">d28c78b</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">ci: PR 자동화 워크플로우 및 CODEOWNERS 추가 (#6)</tspan></text>
+  <text x="36" y="180" font-size="15"><tspan fill="#ffbd2e">80a2355</tspan><tspan fill="#79c0ff" dx="12">TriggerReactor</tspan><tspan fill="#e6edf3" dx="12">fix(executor): update removed PlatformManager#curr…</tspan></text>
+  <text x="36" y="206" font-size="15"><tspan fill="#ffbd2e">f5a899f</tspan><tspan fill="#79c0ff" dx="12" opacity="0.55" filter="url(#blur)">█████████████</tspan><tspan fill="#e6edf3" dx="12" opacity="0.45" filter="url(#blur)">██████ ████████ ███████ █████ ██████ ██████</tspan><tspan fill="#8b949e" dx="12" font-size="12">&#128274; private</tspan></text>
+  <text x="36" y="232" font-size="15"><tspan fill="#ffbd2e">ced8f20</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): UUIDv7과 API 버저닝 메모 추가</tspan></text>
+  <text x="36" y="258" font-size="15"><tspan fill="#ffbd2e">5316270</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(db): 마이그레이션 동시 편집과 jOOQ 루틴 생성 제외</tspan></text>
+  <text x="36" y="284" font-size="15"><tspan fill="#ffbd2e">7cafc80</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(db): pgvector 확장 활성화</tspan></text>
+  <text x="36" y="310" font-size="15"><tspan fill="#ffbd2e">f8870e9</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">ci(github): 커버리지 PR 리포트 추가</tspan></text>
+  <text x="36" y="336" font-size="15"><tspan fill="#ffbd2e">96f85e1</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(infra): JDK 25 AOT 캐시 적용</tspan></text>
+  <text x="36" y="362" font-size="15"><tspan fill="#ffbd2e">f97a441</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">chore(gradle): Kover 커버리지 도구 추가</tspan></text>
+  <text x="36" y="388" font-size="15"><tspan fill="#ffbd2e">e2ccf31</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">feat(config): 가상 스레드 활성화</tspan></text>
+  <text x="36" y="414" font-size="15"><tspan fill="#ffbd2e">7af339b</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): dto 검증 어노테이션 규칙 추가</tspan></text>
+  <text x="36" y="440" font-size="15"><tspan fill="#ffbd2e">c3824c4</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(agents): AGENTS.md 계층 문서 구축</tspan></text>
+  <text x="36" y="466" font-size="15"><tspan fill="#ffbd2e">fa0c826</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">docs(readme): README 작성</tspan></text>
+  <text x="36" y="492" font-size="15"><tspan fill="#ffbd2e">6b8b2f2</tspan><tspan fill="#79c0ff" dx="12">PPOTTO-Server</tspan><tspan fill="#e6edf3" dx="12">refactor(error): 에러 코드 형식을 COMMON-000 형태로 변경</tspan></text>
   <text x="36" y="538" font-size="16">
     <tspan fill="#7ee787" font-weight="700">&#10148;</tspan>
     <tspan fill="#79c0ff" dx="6">~</tspan>
