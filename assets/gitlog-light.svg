@@ -34,7 +34,7 @@
   <text x="36" y="414" font-size="15"><tspan fill="#9a6700">3e2b689</tspan><tspan fill="#0969da" dx="12" opacity="0.55" filter="url(#blur)">█████████</tspan><tspan fill="#1f2328" dx="12" opacity="0.45" filter="url(#blur)">██████ █████ █████ ████████ ███ █████ ██████</tspan><tspan fill="#57606a" dx="12" font-size="12">&#128274; private</tspan></text>
   <text x="36" y="440" font-size="15"><tspan fill="#9a6700">2040097</tspan><tspan fill="#0969da" dx="12" opacity="0.55" filter="url(#blur)">████████</tspan><tspan fill="#1f2328" dx="12" opacity="0.45" filter="url(#blur)">█████ ███ ███████ ███ ███ ██████ ████</tspan><tspan fill="#57606a" dx="12" font-size="12">&#128274; private</tspan></text>
   <text x="36" y="466" font-size="15"><tspan fill="#9a6700">9520f86</tspan><tspan fill="#0969da" dx="12">PPOTTO-Server</tspan><tspan fill="#1f2328" dx="12">chore(infra): 로컬 compose에 valkey 추가</tspan></text>
-  <text x="36" y="492" font-size="15"><tspan fill="#9a6700">94241e1</tspan><tspan fill="#0969da" dx="12" opacity="0.55" filter="url(#blur)">███████</tspan><tspan fill="#1f2328" dx="12" opacity="0.45" filter="url(#blur)">██████ ███████ █████ ███████ ████ █████</tspan><tspan fill="#57606a" dx="12" font-size="12">&#128274; private</tspan></text>
+  <text x="36" y="492" font-size="15"><tspan fill="#9a6700">4bb7b36</tspan><tspan fill="#0969da" dx="12">PPOTTO-client</tspan><tspan fill="#1f2328" dx="12">✨ Feat: 애플 최초 로그인 시 이름을 조합해 서버로 전달</tspan></text>
   <text x="36" y="538" font-size="16">
     <tspan fill="#1a7f37" font-weight="700">&#10148;</tspan>
     <tspan fill="#0969da" dx="6">~</tspan>
