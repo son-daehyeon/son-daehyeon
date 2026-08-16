@@ -21,7 +21,7 @@
     <tspan fill="#1f2328" dx="10">git log --oneline -15</tspan>
   </text>
   <text x="36" y="128" font-size="15"><tspan fill="#9a6700">50141a9</tspan><tspan fill="#0969da" dx="12">PPOTTO-client</tspan><tspan fill="#1f2328" dx="12">✨ Feat: 웹·앱 Sentry 연동 및 trace 전파 (#128)</tspan></text>
-  <text x="36" y="154" font-size="15"><tspan fill="#9a6700">11cfe28</tspan><tspan fill="#0969da" dx="12">PPOTTO-Server</tspan><tspan fill="#1f2328" dx="12">✨ Feat: Sentry 연동 및 LLM 관측성 추가 (#137)</tspan></text>
+  <text x="36" y="154" font-size="15"><tspan fill="#9a6700">2267dd5</tspan><tspan fill="#0969da" dx="12">PPOTTO-Server</tspan><tspan fill="#1f2328" dx="12">✨ Feat: Sentry 연동 및 LLM 관측성 추가 (#137)</tspan></text>
   <text x="36" y="180" font-size="15"><tspan fill="#9a6700">4e034ca</tspan><tspan fill="#0969da" dx="12">PPOTTO-Server</tspan><tspan fill="#1f2328" dx="12">🔧 Chore: 관측성 스택(ClickStack) 제거 (#135)</tspan></text>
   <text x="36" y="206" font-size="15"><tspan fill="#9a6700">e59ac35</tspan><tspan fill="#0969da" dx="12">PPOTTO-client</tspan><tspan fill="#1f2328" dx="12">Revert "✨ Feat: 웹·네이티브 HyperDX 관측성 연동 (#113)" (#11…</tspan></text>
   <text x="36" y="232" font-size="15"><tspan fill="#9a6700">a3ed964</tspan><tspan fill="#0969da" dx="12">PPOTTO-client</tspan><tspan fill="#1f2328" dx="12">✨ Feat: 웹·네이티브 HyperDX 관측성 연동 (#113)</tspan></text>
