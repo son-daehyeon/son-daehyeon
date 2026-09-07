@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
-  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Daehyeon Son, Product Owner @ Zighang, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
+  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Daehyeon Son, Backend · Infra Engineer, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
 </picture>
 
 <br/><br/>
@@ -63,9 +63,9 @@
 
 <br/>
 
-## ⚡ Work @ [Zighang](https://zighang.com)
+## ⚡ Work @ [Zighang](https://zighang.com) (2025.09 ~ 2026.08)
 
-> Building a job discovery platform — owning the product from planning to production.
+> Built a job discovery platform — owned the product from planning to production.
 
 - 🔍 **In-house Search Engine** — designed & built from scratch, solo
 

@@ -39,7 +39,7 @@
   <circle cx="30" cy="26" r="7" fill="#ff5f56"/>
   <circle cx="54" cy="26" r="7" fill="#ffbd2e"/>
   <circle cx="78" cy="26" r="7" fill="#27c93f"/>
-  <text x="440" y="31" fill="#8b949e" font-size="13" text-anchor="middle">daehyeon@zighang: ~/about</text>
+  <text x="440" y="31" fill="#8b949e" font-size="13" text-anchor="middle">daehyeon@kookmin: ~/about</text>
 
   <!-- $ neofetch -->
   <text class="line d0" x="36" y="92" font-size="16">
@@ -60,9 +60,9 @@
 
   <!-- specs -->
   <g font-size="15">
-    <text class="line d1" x="360" y="140"><tspan fill="#bf91f3" font-weight="700">daehyeon</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#bf91f3" font-weight="700">zighang</tspan></text>
+    <text class="line d1" x="360" y="140"><tspan fill="#bf91f3" font-weight="700">daehyeon</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#bf91f3" font-weight="700">kookmin</tspan></text>
     <text class="line d2" x="360" y="162" fill="#484f58">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;</text>
-    <text class="line d3" x="360" y="184"><tspan fill="#7ee787" font-weight="700">Role</tspan><tspan fill="#e6edf3">: Product Owner @ Zighang</tspan></text>
+    <text class="line d3" x="360" y="184"><tspan fill="#7ee787" font-weight="700">Role</tspan><tspan fill="#e6edf3">: Backend &#183; Infra Engineer</tspan></text>
     <text class="line d4" x="360" y="206"><tspan fill="#7ee787" font-weight="700">Uptime</tspan><tspan fill="#e6edf3">: coding since 2021</tspan></text>
     <text class="line d5" x="360" y="228"><tspan fill="#7ee787" font-weight="700">Kernel</tspan><tspan fill="#e6edf3">: Kotlin &#183; TypeScript &#183; Go</tspan></text>
     <text class="line d6" x="360" y="250"><tspan fill="#7ee787" font-weight="700">Shell</tspan><tspan fill="#e6edf3">: Spring Boot &#183; Next.js</tspan></text>
