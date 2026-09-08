@@ -65,7 +65,7 @@
 
 ## ⚡ Work @ [Zighang](https://zighang.com) (2025.09 ~ 2026.08)
 
-> Built a job discovery platform — owned the product from planning to production.
+> Built a job discovery platform — owned crawling, search, and infrastructure end to end as a backend/infra engineer.
 
 - 🔍 **In-house Search Engine** — designed & built from scratch, solo
 
@@ -79,10 +79,6 @@
 
   `AWS` `GCS` `Docker` `GitHub Actions`
 
-- 📊 **Product Ownership** — feature planning, prioritization, and data-driven decisions
-
-  `PostHog` `Analytics`
-
 <br/>
 
 ## 🎓 Activities
@@ -93,7 +89,7 @@
 |:------:|:------------:|:----:|
 | 2026.07 ~ 2026.09 | [NEXTERS](https://nexters.co.kr) 29th | Backend Developer |
 | 2026.01 ~ 2026.12 | [WINK](https://wink.kookmin.ac.kr) | Member |
-| 2025.09 ~ 2026.08 | [Zighang](https://zighang.com) | Product Owner |
+| 2025.09 ~ 2026.08 | [Zighang](https://zighang.com) | Backend / Infrastructure Engineer |
 | 2025.08 ~ 2025.12 | [KUSITMS](https://kusitms.com) 32nd | Member |
 | 2025.01 ~ 2025.12 | [WINK](https://wink.kookmin.ac.kr) | Executive |
 | 2024.03 ~ 2024.12 | [WINK](https://wink.kookmin.ac.kr) | Member |
