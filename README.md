@@ -88,11 +88,11 @@
 | Period | Organization | Role |
 |:------:|:------------:|:----:|
 | 2026.07 ~ 2026.09 | [NEXTERS](https://nexters.co.kr) 29th | Backend Developer |
-| 2026.01 ~ 2026.12 | [WINK](https://wink.kookmin.ac.kr) | Member |
+| 2026.03 ~ Present | [WINK](https://wink.kookmin.ac.kr) | Member |
 | 2025.09 ~ 2026.08 | [Zighang](https://zighang.com) | Backend / Infrastructure Engineer |
-| 2025.08 ~ 2025.12 | [KUSITMS](https://kusitms.com) 32nd | Member |
-| 2025.01 ~ 2025.12 | [WINK](https://wink.kookmin.ac.kr) | Executive |
-| 2024.03 ~ 2024.12 | [WINK](https://wink.kookmin.ac.kr) | Member |
+| 2025.08 ~ 2025.12 | [KUSITMS](https://kusitms.com) 32nd | Backend Developer |
+| 2025.03 ~ 2026.02 | [WINK](https://wink.kookmin.ac.kr) | Executive |
+| 2024.03 ~ 2025.02 | [WINK](https://wink.kookmin.ac.kr) | Member |
 
 </div>
 
