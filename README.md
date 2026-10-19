@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
-  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Daehyeon Son, Backend · Infra Engineer, Kernel: Kotlin · TypeScript · Go, Shell: Spring Boot · Next.js" />
+  <img src="./assets/neofetch.svg" width="880" alt="neofetch — Daehyeon Son, Backend · Infra Engineer, Kernel: Kotlin · TypeScript, Shell: Spring Boot · Next.js" />
 </picture>
 
 <br/><br/>
@@ -67,9 +67,9 @@
 
 > Built a job discovery platform — owned crawling, search, and infrastructure end to end as a backend/infra engineer.
 
-- 🔍 **In-house Search Engine** — designed & built from scratch, solo
+- 🔍 **Search** — built job search on OpenSearch from scratch, solo
 
-  `Go` `PostgreSQL` `Vespa` `OpenSearch`
+  `OpenSearch` `PostgreSQL`
 
 - 🚀 **Core Service** — backend & frontend development for the main job platform
 
@@ -89,7 +89,6 @@
 |:------:|:------------:|:----:|
 | 2026.07 ~ 2026.09 | [NEXTERS](https://nexters.co.kr) 29th | Backend Developer |
 | 2026.03 ~ Present | [WINK](https://wink.kookmin.ac.kr) | Member |
-| 2025.09 ~ 2026.08 | [Zighang](https://zighang.com) | Backend / Infrastructure Engineer |
 | 2025.08 ~ 2025.12 | [KUSITMS](https://kusitms.com) 32nd | Backend Developer |
 | 2025.03 ~ 2026.02 | [WINK](https://wink.kookmin.ac.kr) | Executive |
 | 2024.03 ~ 2025.02 | [WINK](https://wink.kookmin.ac.kr) | Member |
@@ -104,11 +103,12 @@
 
 | 🏅 | Date | Competition |
 |:--:|:----:|-------------|
-| 🥇 | 2024.09 | WINK × The Compass Hackathon |
-| 🥉 | 2024.09 | Sookmyung Code-it × KMU KOSS Hackathon |
-| 🥉 | 2023.08 | Kookmin Univ. Algorithm Contest |
-| 🎖️ | 2023.06 | Chungbuk Olympiad in Informatics |
-| 🥇 | 2022.12 | Chungbuk Computer Festival |
+| 🥇 | 2024.09 | WINK × The Compass User Persona Web Hackathon |
+| 🥉 | 2024.09 | Sookmyung Women's Univ. Code-it × KMU KOSS Hackathon |
+| 🥉 | 2023.08 | 8th Kookmin Univ. Algorithm Contest |
+| 🎖️ | 2023.06 | 37th Chungbuk Student Olympiad in Informatics |
+| 🥈 | 2022.12 | 7th Chungbuk Software Hackathon Festival |
+| 🥇 | 2022.12 | 23rd Chungbuk Computer Festival |
 
 </div>
 
@@ -118,7 +118,7 @@
 
 | Year | Project | Description | Tech |
 |:----:|---------|-------------|------|
-| 2026 | [거부기린](https://github.com/posture-turtle) | Posture correction service — grew from KUSITMS 32nd into a startup, backend | `Kotlin` `Spring Boot` |
+| 2025–2026 | [거부기린](https://github.com/posture-turtle) | Posture correction service — grew from KUSITMS 32nd into a startup (wound down), backend | `Kotlin` `Spring Boot` |
 | 2025 | [국동이](https://github.com/KookDongE-A) | Club discovery & recruiting platform for Kookmin Univ. | `Next.js` `Spring Boot` |
 | 2025 | [Interpre](https://github.com/flex-interpre) | Real-time interpretation service powered by CLOVA STT | `Spring Boot` |
 | 2025 | [IDEANTIFY](https://github.com/IDEANTIFY) | AI-powered idea validation & refinement platform | `Next.js` `Spring Boot` |
