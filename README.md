@@ -104,11 +104,11 @@
 | 🏅 | Date | Competition |
 |:--:|:----:|-------------|
 | 🥇 | 2024.09 | WINK × The Compass User Persona Web Hackathon |
-| 🥉 | 2024.09 | Sookmyung Women's Univ. Code-it × KMU KOSS Hackathon |
-| 🥉 | 2023.08 | 8th Kookmin Univ. Algorithm Contest |
+| 🥉 | 2024.09 | KMU KOSS × Sookmyung Code-it Joint Hackathon |
+| 🥉 | 2023.08 | 8th Kookmin University Algorithm Contest |
 | 🎖️ | 2023.06 | 37th Chungbuk Student Olympiad in Informatics |
 | 🥈 | 2022.12 | 7th Chungbuk Software Hackathon Festival |
-| 🥇 | 2022.12 | 23rd Chungbuk Computer Festival |
+| 🥇 | 2022.12 | 23rd Chungbuk Young Computer Talents Festival |
 
 </div>
 
