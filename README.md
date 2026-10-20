@@ -139,12 +139,12 @@
 
 | Year | Project | Description | Tech |
 |:----:|---------|-------------|------|
-| 2023 | [티플](https://github.com/JCHS-Teacher-Plan) | Timetable iOS app for teachers — released on the App Store | `Swift` `Spring Boot` |
-| 2023 | [ALGORRITHM](https://github.com/JCHS-ALGORRITHM) | School online judge with a custom judging server | `React` `Spring Boot` |
-| 2023 | [Classmate](https://github.com/JCHS-Classmate) | Timetable iOS app for students | `Swift` `Spring Boot` |
-| 2022 | [Hakuna Matata](https://github.com/JCHS-Hakuna-Matata) | School goods shop | `React` `Node.js` |
-| 2022 | [Music Player](https://github.com/JCHS-Music-Player) | Music streaming platform | `React` `Spring Boot` |
-| 2022 | [Ignite](https://github.com/JCHS-Ignite) | School festival management bot | `Node.js` |
+| 2023 | [티플](https://github.com/son-daehyeon/JCHS-Teacher-Plan-Server) | Timetable iOS app for teachers — released on the App Store | `Swift` `Spring Boot` |
+| 2023 | [ALGORRITHM](https://github.com/son-daehyeon/JCHS-ALGORRITHM-Server) | School online judge with a custom judging server | `React` `Spring Boot` |
+| 2023 | [Classmate](https://github.com/son-daehyeon/JCHS-Classmate-Server) | Timetable iOS app for students | `Swift` `Spring Boot` |
+| 2022 | [Hakuna Matata](https://github.com/son-daehyeon/JCHS-Hakuna-Matata-Server) | School goods shop | `React` `Node.js` |
+| 2022 | [Music Player](https://github.com/son-daehyeon/JCHS-Music-Player-Server) | Music streaming platform | `React` `Spring Boot` |
+| 2022 | [Ignite](https://github.com/son-daehyeon/JCHS-Ignite) | School festival management bot | `Node.js` |
 
 </details>
 
